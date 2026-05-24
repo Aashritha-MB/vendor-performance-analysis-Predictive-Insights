@@ -177,4 +177,7 @@ The dashboard provides:
 ---
 
 ## Dataset Note
-Some large dataset files are excluded from the GitHub repository due to GitHub file size limitations.
+Large dataset files are not included in this repository due to GitHub storage limitations.  
+The datasets used in this project can be downloaded from Kaggle and placed inside the `data/` folder before running the project.
+
+Kaggle Dataset: Vendor Performance Data
