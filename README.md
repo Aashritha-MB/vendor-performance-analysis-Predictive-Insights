@@ -76,7 +76,7 @@ Contains prediction-related data for future vendor performance analysis and fore
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Aashritha-MB/vendor-performance-analysis-Predictive-Insights.git>
 cd Project
 ```
 
@@ -180,4 +180,3 @@ The dashboard provides:
 Large dataset files are not included in this repository due to GitHub storage limitations.  
 The datasets used in this project can be downloaded from Kaggle and placed inside the `data/` folder before running the project.
 
-Kaggle Dataset: Vendor Performance Data
